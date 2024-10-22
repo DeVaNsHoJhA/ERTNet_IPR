@@ -4,8 +4,10 @@ Implelemtation of the paper ERTNet: an interpretable transformer-based framework
 
 # To run the .ipynb file
 -check requirements.txt and confirm the the requirements are met in your python environment
-\\-save the preprocessed DEAP dataset saved in the same directory and provide the path for /PREPROCESSED/data_preprocessed_python in the notebook
-\\-sequentially run all the cells
 
-\\ Optional
+-save the preprocessed DEAP dataset saved in the same directory and provide the path for /PREPROCESSED/data_preprocessed_python in the notebook
+
+-sequentially run all the cells
+
+### Optional
 -To do 10-fold training on all comparison models change the code in the corresponding cells to match the code for the 10-fold training of ERTNet model
