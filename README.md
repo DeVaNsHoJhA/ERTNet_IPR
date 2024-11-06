@@ -9,5 +9,8 @@ Implelemtation of the paper ERTNet: an interpretable transformer-based framework
 
 -sequentially run all the cells
 
+###
+To run the Updated Code, you do not need any more requirements and you can run it in the same way as with the first file
+
 ### Optional
 -To do 10-fold training on all comparison models change the code in the corresponding cells to match the code for the 10-fold training of ERTNet model
